@@ -13,7 +13,7 @@ Why not make our well log data visualization more elegant, with colour fill repr
 
 ## Digitized Schlumberger and Halliburton charts to analyze well log data
 <div>
-<img src="https://user-images.githubusercontent.com/51282928/76432682-e3479000-63e5-11ea-8f0c-818a588ff8bc.png" width="700"/>
+<img src="https://user-images.githubusercontent.com/51282928/76434291-10953d80-63e8-11ea-9430-4556c913c600.png" width="500"/>
 </div>
 
 Schlumberger and Halliburton charts are very widely used, but its very limited to only working on the book/printed charts. The charts are reproduced here and converted digitally, so anybody can now interpret well logs directly on the digitized charts. 
@@ -24,7 +24,7 @@ Schlumberger and Halliburton charts are very widely used, but its very limited t
 <img src="https://user-images.githubusercontent.com/51282928/76431881-c8285080-63e4-11ea-982f-9d9f19aa0ca9.png" width="460"/>
 </div>
 
-Use of Xu-Payne method to characterize pore types in carbonate rocks, as carbonate is a very unique rock with variety of pore types. The RockModeler program also create a synthetic thin slice of estimated Xu-Payne pore types. This is part of my work presented in **EAGE Annual in Amsterdam 2020**. Preprint available [Here](https://www.researchgate.net/publication/339773893_Integration_of_Reservoir_Rock_Physics_Seismic_and_Geomechanical_Modelling_for_CO2_Injection_in_Carbonate_Reef_Reservoir)
+Use of Xu-Payne method to characterize pore types in carbonate rocks, as carbonate is a very unique rock with variety of pore types. The [RockModeler](https://github.com/yohanesnuwara/reservoir-qi/tree/master/rock-modeller) program also create a synthetic thin slice of estimated Xu-Payne pore types. This is part of my work presented in **EAGE Annual in Amsterdam 2020**. Preprint available [Here](https://www.researchgate.net/publication/339773893_Integration_of_Reservoir_Rock_Physics_Seismic_and_Geomechanical_Modelling_for_CO2_Injection_in_Carbonate_Reef_Reservoir)
 
 Main resources that I use:
 
