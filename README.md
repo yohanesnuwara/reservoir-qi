@@ -5,11 +5,11 @@
 Application of quantitative interpretation (QI) geophysics techniques to describe properties of petroleum reservoir. Interpretation techniques include **well log analysis** and **seismic rock physics**. 
 
 ### Digitized Schlumberger and Halliburton charts to analyze well log data
-
-Schlumberger and Halliburton charts are very widely used, but its very limited to only working on the book/printed charts. The charts are reproduced here and converted digitally, so anybody can now interpret well logs directly on the digitized charts. 
 <div>
 <img src="https://user-images.githubusercontent.com/51282928/76430354-d1b0b900-63e2-11ea-8595-cff23e58f7fe.png" width="700"/>
 </div>
+
+Schlumberger and Halliburton charts are very widely used, but its very limited to only working on the book/printed charts. The charts are reproduced here and converted digitally, so anybody can now interpret well logs directly on the digitized charts. 
 
 ### Porosity typing in carbonate rocks
 
