@@ -1,6 +1,6 @@
 # reservoir-quantitative-interpretation
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 Application of quantitative interpretation (QI) geophysics techniques to describe properties of petroleum reservoir. Interpretation techniques include **well log analysis** and **seismic rock physics**. 
 
