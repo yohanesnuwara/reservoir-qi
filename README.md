@@ -4,15 +4,21 @@
 
 Application of quantitative interpretation (QI) geophysics techniques to describe properties of petroleum reservoir. Interpretation techniques include **well log analysis** and **seismic rock physics**. 
 
+### Elegant Petrel-style well curve
+<div>
+<img src="https://user-images.githubusercontent.com/51282928/76433169-87313b80-63e6-11ea-801b-d637436f25c8.PNG" width="700"/>
+</div>
+
+Why not make our well log data visualization more elegant, with colour fill representing each lithological beds in the well data? We can imitate the well log visualization just like in Petrel software.  
+
 ### Digitized Schlumberger and Halliburton charts to analyze well log data
 <div>
-<img src="https://user-images.githubusercontent.com/51282928/76430354-d1b0b900-63e2-11ea-8595-cff23e58f7fe.png" width="700"/>
+<img src="https://user-images.githubusercontent.com/51282928/76432682-e3479000-63e5-11ea-8f0c-818a588ff8bc.png" width="700"/>
 </div>
 
 Schlumberger and Halliburton charts are very widely used, but its very limited to only working on the book/printed charts. The charts are reproduced here and converted digitally, so anybody can now interpret well logs directly on the digitized charts. 
 
 ### Porosity typing in carbonate rocks
-
 <div>
 <img src="https://user-images.githubusercontent.com/51282928/76431647-767fc600-63e4-11ea-9350-c0ff53c41bb2.png" width="400"/>
 <img src="https://user-images.githubusercontent.com/51282928/76431881-c8285080-63e4-11ea-982f-9d9f19aa0ca9.png" width="460"/>
